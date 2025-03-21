@@ -14,7 +14,7 @@ The tool is lightweight, requiring only Python (version ≥ 2.6) and rsync, and 
 multi-sync is a single Python file that you can easily download. Alternatively, clone the repository and use the provided Makefile to install it:
 
 ```bash
-git clone https://github.com/jbd/multi-sync
+git clone https://github.com/komal-24/multi-sync.git
 cd multi-sync/usr/bin
 sudo make install
 ```
