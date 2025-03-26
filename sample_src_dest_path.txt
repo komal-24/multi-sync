@@ -1,2 +1,2 @@
-/home/backup/data/
-user@192.168.1.20:/home/central/data/
+/home/user/data/
+user@192.168.1.20:/home/user/data/
